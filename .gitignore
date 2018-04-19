@@ -1,0 +1,17 @@
+.vscode
+
+.DS_Store*
+Icon?
+._*
+
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+.directory
+*~
+
+node_modules
+package-lock.json
+*.log
+*.gz

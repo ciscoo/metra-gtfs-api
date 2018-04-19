@@ -1,0 +1,20 @@
+{
+  "name": "metra-gtfs-api",
+  "version": "0.0.1",
+  "description": "A Node.js module for consuming Metra's GTFS API",
+  "main": "index.js",
+  "repository": "git@github.com:ciscoo/metra-gtfs-api.git",
+  "author": "Francisco Mateo <cisco21c@gmail.com>",
+  "license": "ISC",
+  "private": false,
+  "devDependencies": {
+    "husky": "^0.14.3",
+    "jest": "^22.4.3",
+    "prettier": "1.12.1",
+    "pretty-quick": "^1.4.1",
+    "got": "^8.3.0"    
+  },
+  "peerDependencies": {
+    "got": "^8.3.0"
+  }
+}
